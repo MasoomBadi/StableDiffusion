@@ -1,7 +1,6 @@
 "#StableDiffusion" 
 
-A stable diffusion model from scratch written in PyTorch.
-
+A stable diffusion model from scratch implemented in PyTorch, based on the following research papers.
 
 Research Papers:
 
